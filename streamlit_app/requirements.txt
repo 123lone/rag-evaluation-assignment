@@ -1,0 +1,31 @@
+# Core utilities
+python-dotenv
+tqdm
+
+# PDF parsing
+pypdf
+pdfplumber
+
+# Embeddings + Vector DB
+chromadb==0.5.3
+sentence-transformers==2.2.2
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-text-splitters==0.2.0
+
+# LLM loading (local GGUF models)
+ctransformers>=0.2.27
+
+# HuggingFace
+huggingface-hub>=0.23.0
+
+# Streamlit UI
+streamlit==1.35.0
+
+# Evaluation & Utilities
+numpy
+pandas
+scikit-learn
+
+# Plotting for analysis
+matplotlib

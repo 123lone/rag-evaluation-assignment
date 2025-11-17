@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+groq
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+numpy
+pandas
+scikit-learn
